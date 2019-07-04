@@ -40,6 +40,7 @@ Etc.
 ## Acknowledgments
 
 This repository contains the great lanjelot's [Patator](https://github.com/lanjelot/patator) as submodule.
+Lény BUENO (@bik3te) for his tool Paparazzi :)
 
 ## Requirements
 
