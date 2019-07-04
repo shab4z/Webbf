@@ -1,9 +1,5 @@
-fjkdsfds:fjdskfds
-fjdkzhuerkzfed:dhsjdf
-djkzyrgukdsqfds:fdsfds
 admin:admin
-fhdkhtkjrefds:fdsjkf
-fdjhrrukznfsdgd:fjktrlhsfd
-fjdshqbnskfejbqs:fhrjk
-yrieuzhtr:azoruzoier
-yruiez:fdskfds
+adm:adm
+admgrafana:admgrafana
+demo:demo
+test:test

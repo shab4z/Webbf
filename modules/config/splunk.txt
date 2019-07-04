@@ -1,7 +1,5 @@
-fndjefkzdqf:fdshujez
-admin:hfezf
-admin:D_igisec123!
-adm:fndskjnflez
-tomcat:tomcat
-test:@fezer*e$
+splunk:splunk
+admin:admin
+admsplunk:admsplunk
 test:test
+demo:demo

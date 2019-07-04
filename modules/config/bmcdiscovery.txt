@@ -1,5 +1,5 @@
-fdnkjfds:frjefelz
+bmc:bmc
+adminbmc:adminbmc
 adm:adm
-fjerfe:trzrhjkzjzhkrjh
 demouser:demouser
-fhjksf:fjzlfr
+test:test

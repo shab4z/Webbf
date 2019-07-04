@@ -1,7 +1,5 @@
-jdkls.fds:aaa
 admin:admin
 admintest:admintest
-meriah.slim:D_igisec123!
 test:test
-toto:toto
 jira:jira
+demo:demo
