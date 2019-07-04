@@ -11,17 +11,18 @@ class WebBf():
         opt = ParseOpt()
         self.input_file = opt.args.input_file
         self.nb_threads = opt.args.threads
-        print_info("Loading JSON content from '"+opt.args.input_file+"'")
         self.data = self.getWebIntToBf()
         self.process()
 
     def getWebIntToBf(self):
-    	try:
-    		file = open(self.input_file, 'r')
-    		content = file.read().replace('\n', '')
-    	except:
-    		print_error("Unexpected error:", sys.exc_info()[0])
-    	return json.loads(content)
+        try:
+            file = open(self.input_file, 'r')
+            content = file.read().replace('\n', '')
+        except Exception as e:
+            print_error("Unexpected error: %s" % e)
+            sys.exit(0)
+        print_info("Loading JSON content from '"+self.input_file+"'")
+        return json.loads(content)
 
     def import_class(self, cl):
         d = cl.rfind(".")
