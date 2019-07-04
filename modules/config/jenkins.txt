@@ -1,0 +1,6 @@
+admin:
+jenkins:
+jenkins:jenkins
+admin:eea54d6b4c0d4baf9a925faa02f48a64
+fdsnfnzlk:tomcat
+hjfdnkslnfezlfd:fjdfd
