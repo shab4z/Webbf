@@ -49,6 +49,5 @@ $ python3 webbf.py interfaces.json
  [!] Loading BmcdiscoveryModule
  [!] Trying default credentials on http://discovery.trybmc.com:80
  [*] [http://discovery.trybmc.com:80] : (demouser:demouser)
-```
-...
+ ...
 ```
