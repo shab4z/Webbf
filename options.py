@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-#./xxxx.py --help
-#./xxxx.py --file paparrazi.out -c config.yml
-
 import argparse
 
 class ParseOpt():
