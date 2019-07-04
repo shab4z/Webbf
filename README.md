@@ -30,6 +30,13 @@ These classes are dynamically instanciated with the following parameters :
 * lst : corresponds to a list of urls associated hosting the targeted service
 * nb_threads : number of threads
 
+## Wordlists
+
+Each module hash its own wordlist on the config subdirectory. Each wordlist must be in the following format :
+login:password\n
+login2:password2\n
+Etc.
+
 ## Acknowledgments
 
 This repository contains the great lanjelot's [Patator](https://github.com/lanjelot/patator) as submodule.
